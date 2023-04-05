@@ -1,0 +1,23 @@
+/*styles.css for recipe*/
+* {
+    font-family: "Brush Script MT", "Lucida Calligraphy", cursive, sans-serif;
+}
+
+h1 {
+    background-color: red;
+    color: white;
+    font-size: 64px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p{
+    background-color: green;
+    color: white;
+    font-size:18px;
+}
+
+button {
+    background-color: orange;
+    font-size: 14px;
+}
